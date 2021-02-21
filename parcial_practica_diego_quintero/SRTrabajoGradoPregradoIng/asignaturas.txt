@@ -1,0 +1,11 @@
+MAT04	Teoría de Cuerpos
+BIO05	Bovinos
+MED06	Cirugía
+ISC08	Computación Cuántica
+CIV01	Estructuras
+ARQ02	Dibujo
+ART01	Historia del Arte
+ADM03	Teoría Organizacional
+LEN06	Inglés IV
+CON09	Contabilidad
+MAT07	Estadística	
